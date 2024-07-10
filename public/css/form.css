@@ -1,0 +1,27 @@
+h1{
+    color: white;
+
+}
+
+body{
+    background-color: #854836;
+    color: white;
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.list-group{
+position: relative;
+top: 50px;
+
+}
+
+#tit{
+    position: relative;
+    left: 5px;
+}
+#bt{
+    position: relative;
+    right: 5px;  
+}
